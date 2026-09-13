@@ -25,11 +25,11 @@ O desenvolvimento técnico foi estruturado em cinco fases de complexidade progre
 
 ## 📊 Resultados do Modelo
 
-![alt text](image-3.png)
-![alt text](image.png)
-![alt text](image-4.png)
-![alt text](image-2.png)
-![alt text](image-1.png)
+![Resultado 3](assets/image-3.png)
+![Resultado 0](assets/image.png)
+![Resultado 4](assets/image-4.png)
+![Resultado 2](assets/image-2.png)
+![Resultado 1](assets/image-1.png)
 
 ## 📦 Como Executar o Projeto
 
